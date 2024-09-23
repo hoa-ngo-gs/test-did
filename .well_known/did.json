@@ -1,0 +1,21 @@
+{
+  "did": "did:web:did:web:hoa-ngo-gs.github.io:test-did",
+  "controllerKeyId": "a2db48d7c1d0b4039e960bb366e296400dc8bf0eff0a1c99208f52dc9735afd6",
+  "keys": [
+    {
+      "type": "Ed25519",
+      "kid": "a2db48d7c1d0b4039e960bb366e296400dc8bf0eff0a1c99208f52dc9735afd6",
+      "publicKeyHex": "a2db48d7c1d0b4039e960bb366e296400dc8bf0eff0a1c99208f52dc9735afd6",
+      "meta": {
+        "algorithms": [
+          "EdDSA",
+          "Ed25519"
+        ]
+      },
+      "kms": "local"
+    }
+  ],
+  "services": [],
+  "provider": "did:web",
+  "alias": "did:web:hoa-ngo-gs.github.io:test-did"
+}
